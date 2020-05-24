@@ -5,7 +5,8 @@
 		<Placemark>
 			<name>Ward 1</name>
 			<description><![CDATA[Ward Name: Kempegowda Ward<br>Zone: Yelahanka<br>Division: Yelahanka<br>Subdivision: Yelahanka<br>Assembly (MLA) Constituency : Yelahanka<br>Parliament (MP) Constituency: Chikballapur]]></description>
-			<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+			<Style><LineStyle><color>5014B45A</color><width>1</width></LineStyle><PolyStyle><fill>1</fill>
+	<outline>1</outline><color>5014F0B4</color></PolyStyle></Style>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kempegowda Ward</value>
