@@ -368,7 +368,7 @@
 		<Placemark>
 			<name>Ward 12</name>
 			<description><![CDATA[Ward Name: Shettihalli<br>Zone: Dasarahalli <br>Division: Dasarahalli<br>Subdivision: Shetty halli<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Shettihalli</value>
@@ -401,7 +401,7 @@
 		<Placemark>
 			<name>Ward 13</name>
 			<description><![CDATA[Ward Name: Mallasandra<br>Zone: Dasarahalli <br>Division: Dasarahalli<br>Subdivision: Shetty halli<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Mallasandra</value>
@@ -434,7 +434,7 @@
 		<Placemark>
 			<name>Ward 14</name>
 			<description><![CDATA[Ward Name: Bagalakunte<br>Zone: Dasarahalli <br>Division: Dasarahalli<br>Subdivision: T.Dasarahalli<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Bagalakunte</value>
@@ -467,7 +467,7 @@
 		<Placemark>
 			<name>Ward 15</name>
 			<description><![CDATA[Ward Name: T Dasarahalli<br>Zone: Dasarahalli <br>Division: Dasarahalli<br>Subdivision: T.Dasarahalli<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>T Dasarahalli</value>
@@ -500,7 +500,7 @@
 		<Placemark>
 			<name>Ward 16</name>
 			<description><![CDATA[Ward Name: Jalahalli<br>Zone: Rajarajeshwari Nagar<br>Division: Yeshwanthpura<br>Subdivision: Yeshwanthpura<br>Assembly (MLA) Constituency : Rajarajeshwari Nagar<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Jalahalli</value>
@@ -533,7 +533,7 @@
 		<Placemark>
 			<name>Ward 17</name>
 			<description><![CDATA[Ward Name: J P Park<br>Zone: Rajarajeshwari Nagar<br>Division: Yeshwanthpura<br>Subdivision: Yeshwanthpura<br>Assembly (MLA) Constituency : Rajarajeshwari Nagar<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>J P Park</value>
@@ -566,7 +566,7 @@
 		<Placemark>
 			<name>Ward 18</name>
 			<description><![CDATA[Ward Name: Radhakrishna Temple Ward<br>Zone: East<br>Division: Hebbal<br>Subdivision: Hebbal<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Radhakrishna Temple Ward</value>
@@ -599,7 +599,7 @@
 		<Placemark>
 			<name>Ward 19</name>
 			<description><![CDATA[Ward Name: Sanjaya Nagar<br>Zone: East<br>Division: Hebbal<br>Subdivision: Hebbal<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Sanjaya Nagar</value>
@@ -632,7 +632,7 @@
 		<Placemark>
 			<name>Ward 20</name>
 			<description><![CDATA[Ward Name: Ganga Nagar<br>Zone: East<br>Division: Hebbal<br>Subdivision: Hebbal<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Ganga Nagar</value>
@@ -665,7 +665,7 @@
 		<Placemark>
 			<name>Ward 21</name>
 			<description><![CDATA[Ward Name: Hebbala<br>Zone: East<br>Division: Hebbal<br>Subdivision: Hebbal<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Hebbala</value>
@@ -698,7 +698,7 @@
 		<Placemark>
 			<name>Ward 22</name>
 			<description><![CDATA[Ward Name: Vishwanath Nagenahalli<br>Zone: East<br>Division: Hebbal<br>Subdivision: J.C. Nagar<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Vishwanath Nagenahalli</value>
@@ -731,7 +731,7 @@
 		<Placemark>
 			<name>Ward 23</name>
 			<description><![CDATA[Ward Name: Nagavara<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: HBR Layout<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Nagavara</value>
@@ -764,7 +764,7 @@
 		<Placemark>
 			<name>Ward 24</name>
 			<description><![CDATA[Ward Name: HBR Layout<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: HBR Layout<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>HBR Layout</value>
@@ -797,7 +797,7 @@
 		<Placemark>
 			<name>Ward 25</name>
 			<description><![CDATA[Ward Name: Horamavu<br>Zone: Mahadevapura<br>Division: K.R.Puram<br>Subdivision: Horamaavu<br>Assembly (MLA) Constituency : K.R.Puram<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-9C27B0-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Horamavu</value>
@@ -830,7 +830,7 @@
 		<Placemark>
 			<name>Ward 26</name>
 			<description><![CDATA[Ward Name: Ramamurthy Nagar<br>Zone: Mahadevapura<br>Division: K.R.Puram<br>Subdivision: Horamaavu<br>Assembly (MLA) Constituency : K.R.Puram<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-9C27B0-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Ramamurthy Nagar</value>
@@ -863,7 +863,7 @@
 		<Placemark>
 			<name>Ward 27</name>
 			<description><![CDATA[Ward Name: Banasavadi<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: Maruthi Seva Nagar<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Banasavadi</value>
@@ -896,7 +896,7 @@
 		<Placemark>
 			<name>Ward 28</name>
 			<description><![CDATA[Ward Name: Kammanahalli<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: Maruthi Seva Nagar<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kammanahalli</value>
@@ -929,7 +929,7 @@
 		<Placemark>
 			<name>Ward 29</name>
 			<description><![CDATA[Ward Name: Kacharkanahalli<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: Maruthi Seva Nagar<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kacharkanahalli</value>
@@ -962,7 +962,7 @@
 		<Placemark>
 			<name>Ward 30</name>
 			<description><![CDATA[Ward Name: Kadugondanahalli<br>Zone: East<br>Division: Sarvajna Nagar<br>Subdivision: HBR Layout<br>Assembly (MLA) Constituency : Sarvajna Nagar<br>Parliament (MP) Constituency: Bangalore Central]]></description>
-			<styleUrl>#poly-0288D1-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kadugondanahalli</value>
@@ -995,7 +995,7 @@
 		<Placemark>
 			<name>Ward 31</name>
 			<description><![CDATA[Ward Name: Kushal Nagar<br>Zone: East<br>Division: Pulikeshi Nagar<br>Subdivision: K.G. Halli<br>Assembly (MLA) Constituency : Pulakeshi Nagar (SC)<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kushal Nagar</value>
@@ -1028,7 +1028,7 @@
 		<Placemark>
 			<name>Ward 32</name>
 			<description><![CDATA[Ward Name: Kaval Bairasandra<br>Zone: East<br>Division: Pulikeshi Nagar<br>Subdivision: K.G. Halli<br>Assembly (MLA) Constituency : Pulakeshi Nagar (SC)<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Kaval Bairasandra</value>
@@ -1061,7 +1061,7 @@
 		<Placemark>
 			<name>Ward 33</name>
 			<description><![CDATA[Ward Name: Manorayanapalya<br>Zone: East<br>Division: Hebbal<br>Subdivision: J.C. Nagar<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Manorayanapalya</value>
@@ -1094,7 +1094,7 @@
 		<Placemark>
 			<name>Ward 34</name>
 			<description><![CDATA[Ward Name: Gangenahalli<br>Zone: East<br>Division: Hebbal<br>Subdivision: J.C. Nagar<br>Assembly (MLA) Constituency : Hebbal<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-0288D1-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Gangenahalli</value>
@@ -1127,7 +1127,7 @@
 		<Placemark>
 			<name>Ward 35</name>
 			<description><![CDATA[Ward Name: Aramane Nagara<br>Zone: West<br>Division: Malleshwaram<br>Subdivision: Mattikere<br>Assembly (MLA) Constituency : Malleshwaram<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-CE93D8-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Aramane Nagara</value>
@@ -1160,7 +1160,7 @@
 		<Placemark>
 			<name>Ward 36</name>
 			<description><![CDATA[Ward Name: Mattikere<br>Zone: West<br>Division: Malleshwaram<br>Subdivision: Mattikere<br>Assembly (MLA) Constituency : Malleshwaram<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-CE93D8-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Mattikere</value>
@@ -1193,7 +1193,7 @@
 		<Placemark>
 			<name>Ward 37</name>
 			<description><![CDATA[Ward Name: Yeshwanthpura<br>Zone: Rajarajeswari Nagar<br>Division: Yeshwanthpura<br>Subdivision: Yeshwanthpura<br>Assembly (MLA) Constituency : Rajarajeswari Nagar<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Yeshwanthpura</value>
@@ -1226,7 +1226,7 @@
 		<Placemark>
 			<name>Ward 38</name>
 			<description><![CDATA[Ward Name: HMT Ward<br>Zone: Rajarajeswari Nagar<br>Division: Yeshwanthpura<br>Subdivision: Goraguntepalya<br>Assembly (MLA) Constituency : Rajarajeswari Nagar<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-18</styleUrl>
+			<styleUrl>#poly-0F9D58-1-18</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>HMT Ward</value>
@@ -1259,7 +1259,7 @@
 		<Placemark>
 			<name>Ward 39</name>
 			<description><![CDATA[Ward Name: Chokkasandra<br>Zone: Dasarahalli <br>Division: Hegganahalli<br>Subdivision: Peenya Industrial Town<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-23</styleUrl>
+			<styleUrl>#poly-0F9D58-1-23</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Chokkasandra</value>
@@ -1292,7 +1292,7 @@
 		<Placemark>
 			<name>Ward 40</name>
 			<description><![CDATA[Ward Name: Dodda Bidarakallu<br>Zone: Rajarajeswari Nagar<br>Division: Kengeri<br>Subdivision: Herohalli<br>Assembly (MLA) Constituency : Yeshwantpura<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Dodda Bidarakallu</value>
@@ -1325,7 +1325,7 @@
 		<Placemark>
 			<name>Ward 41</name>
 			<description><![CDATA[Ward Name: Peenya Industrial Area<br>Zone: Dasarahalli <br>Division: Hegganahalli<br>Subdivision: Peenya Industrial Town<br>Assembly (MLA) Constituency : Dasarahalli<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-880E4F-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Peenya Industrial Area</value>
@@ -1358,7 +1358,7 @@
 		<Placemark>
 			<name>Ward 42</name>
 			<description><![CDATA[Ward Name: Lakshmi Devi Nagar<br>Zone: Rajarajeswari Nagar<br>Division: Yeshwanthpura<br>Subdivision: Goraguntepalya<br>Assembly (MLA) Constituency : Rajarajeswari Nagar<br>Parliament (MP) Constituency: Bangalore North]]></description>
-			<styleUrl>#poly-E65100-1-20</styleUrl>
+			<styleUrl>#poly-0F9D58-1-20</styleUrl>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Lakshmi Devi Nagar</value>
