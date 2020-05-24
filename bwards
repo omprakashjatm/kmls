@@ -6542,8 +6542,8 @@
 		<Placemark>
 			<name>Ward 198</name>
 			<description><![CDATA[Ward Name: Hemmigepura<br>Zone: Rajarajeswari Nagar<br>Division: Kengeri<br>Subdivision: Kengeri<br>Assembly (MLA) Constituency : Yeshwantpura<br>Parliament (MP) Constituency: Bangalore North]]></description>
-				<Style id='poly-0F9D58-1-23'>
-			<LineStyle>
+			 <Style id="linestyleExample">
+   	<LineStyle>
 				<color>ff589D0F</color>
 				<width>2.0</width>
 			</LineStyle>
@@ -6552,7 +6552,7 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-		</Style>
+  </Style>
 			<ExtendedData>
 				<Data name='Ward Name'>
 					<value>Hemmigepura</value>
